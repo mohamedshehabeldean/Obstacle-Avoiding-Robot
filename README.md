@@ -13,13 +13,19 @@ Programming plays a crucial role in implementing an efficient obstacle avoidance
 by enabling the robot to interpret sensor data, make informed decisions in real-time, and 
 execute precise control commands for motor movements.
 
+
 ![346345261-bc40e818-7e59-4426-8e68-252857017acb](https://github.com/user-attachments/assets/9ad4e847-4d9e-4b64-b95a-199ca598123e)
 
 ## Abstract
 The obstacle-avoiding robot project focuses on the development of an autonomous robotic car capable of intelligently navigating its surroundings while evading obstacles. Essential to this project is the integration of sensors, particularly ultrasonic sensors, which enable the robot to detect obstacles and dynamically adjust its path to avoid collisions.
 
+> [!NOTE]
+> Feel free to reach out if you'd like to learn more about our project or explore potential collaborations.
+
 
 ## video
 
 https://github.com/user-attachments/assets/d5be048f-8a31-431a-9016-9110fa1cbc81
+
+
 
